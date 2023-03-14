@@ -7,4 +7,4 @@
 * Сейчас прохожу курсы в Нетологии на java-разработчика,
    хочу попробовать себя в другой сфере.
 * Летом люблю ходить на море и играть в волейбол.
-![myfoto](https://github.com/Dmitros1980/Resume-3/commit/2d4da2ebd79bbf14a37106eb50b0c4848e070851)
+![](https://github.com/Dmitros1980/Resume-3/commit/2d4da2ebd79bbf14a37106eb50b0c4848e070851)
